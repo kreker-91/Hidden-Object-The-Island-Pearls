@@ -202,3 +202,6 @@ This repository serves as the official landing page for Hidden Object: The Islan
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hidden Object: The Island Pearls today!**
+
+---
+**Last updated:** 2026-11-08 01:00:00 UTC
